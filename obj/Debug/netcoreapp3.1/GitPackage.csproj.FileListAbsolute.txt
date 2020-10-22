@@ -1,0 +1,13 @@
+C:\Users\Dane\Documents\GitPackage\bin\Debug\netcoreapp3.1\GitPackage.exe
+C:\Users\Dane\Documents\GitPackage\bin\Debug\netcoreapp3.1\GitPackage.deps.json
+C:\Users\Dane\Documents\GitPackage\bin\Debug\netcoreapp3.1\GitPackage.runtimeconfig.json
+C:\Users\Dane\Documents\GitPackage\bin\Debug\netcoreapp3.1\GitPackage.runtimeconfig.dev.json
+C:\Users\Dane\Documents\GitPackage\bin\Debug\netcoreapp3.1\GitPackage.dll
+C:\Users\Dane\Documents\GitPackage\bin\Debug\netcoreapp3.1\GitPackage.pdb
+C:\Users\Dane\Documents\GitPackage\obj\Debug\netcoreapp3.1\GitPackage.csprojAssemblyReference.cache
+C:\Users\Dane\Documents\GitPackage\obj\Debug\netcoreapp3.1\GitPackage.AssemblyInfoInputs.cache
+C:\Users\Dane\Documents\GitPackage\obj\Debug\netcoreapp3.1\GitPackage.AssemblyInfo.cs
+C:\Users\Dane\Documents\GitPackage\obj\Debug\netcoreapp3.1\GitPackage.csproj.CoreCompileInputs.cache
+C:\Users\Dane\Documents\GitPackage\obj\Debug\netcoreapp3.1\GitPackage.dll
+C:\Users\Dane\Documents\GitPackage\obj\Debug\netcoreapp3.1\GitPackage.pdb
+C:\Users\Dane\Documents\GitPackage\obj\Debug\netcoreapp3.1\GitPackage.genruntimeconfig.cache
