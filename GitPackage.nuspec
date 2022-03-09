@@ -2,7 +2,7 @@
 <package  xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
   <metadata>    
     <id>1</id>
-    <version>4.0.1</version>
+    <version>4.0.2</version>
     <title>GitPackage Program</title>
     <authors>Dane</authors>
     <owners>Danus</owners>
@@ -11,9 +11,9 @@
     <iconUrl>https://vignette.wikia.nocookie.net/googology/images/f/f3/Test.jpeg</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>This is the Stuff</description>
-    <releaseNotes>Here are some releasenotes in a Nuspec file</releaseNotes>
+    <releaseNotes>BLA-01 Some changed releasenotes which should be visible.</releaseNotes>
     <copyright></copyright>
-    <tags>4.0.1</tags>
+    <tags>4.0.2</tags>
     <dependencies>
       <dependency id="" />
     </dependencies>
