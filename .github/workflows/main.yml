@@ -1,0 +1,20 @@
+name: Octopus Deploy
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest:
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate Octopus Deploy build information
+        uses: xo-energy/action-octopus-build-information@v1.0.0
+        with:
+          octopus_api_key: ${{ secrets.OCTOPUS_CLI_API_KEY }}
+          octopus_server: ${{ secrets.OCTOPUS_CLI_SERVER }}
+          octopus_project: MyProject
+          output_path: octopus
+          push_package_ids: MyProject
+          push_version: ${{ github.ref }}
